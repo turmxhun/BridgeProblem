@@ -1,0 +1,16 @@
+D:\CsharpProjects\BridgeProblem\BridgeProblem\bin\Debug\net5.0\BridgeProblem.exe
+D:\CsharpProjects\BridgeProblem\BridgeProblem\bin\Debug\net5.0\BridgeProblem.deps.json
+D:\CsharpProjects\BridgeProblem\BridgeProblem\bin\Debug\net5.0\BridgeProblem.runtimeconfig.json
+D:\CsharpProjects\BridgeProblem\BridgeProblem\bin\Debug\net5.0\BridgeProblem.runtimeconfig.dev.json
+D:\CsharpProjects\BridgeProblem\BridgeProblem\bin\Debug\net5.0\BridgeProblem.dll
+D:\CsharpProjects\BridgeProblem\BridgeProblem\bin\Debug\net5.0\BridgeProblem.pdb
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\BridgeProblem.csproj.AssemblyReference.cache
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\BridgeProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\BridgeProblem.AssemblyInfoInputs.cache
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\BridgeProblem.AssemblyInfo.cs
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\BridgeProblem.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\BridgeProblem.dll
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\refint\BridgeProblem.dll
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\BridgeProblem.pdb
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\BridgeProblem.genruntimeconfig.cache
+D:\CsharpProjects\BridgeProblem\BridgeProblem\obj\Debug\net5.0\ref\BridgeProblem.dll
